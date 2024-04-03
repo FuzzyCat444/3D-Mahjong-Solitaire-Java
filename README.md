@@ -7,10 +7,10 @@ I have some criticisms about the LibGDX API and it's wiki/documentation which I 
 All the models and textures (except the wood texture) were created by me in Blender and Paint.net. The wood texture is a procedurally generated and seamless Substance Designer material from ambientcg.com.
 
 Controls:
-LMB - Select tiles
-RMB - Rotate camera
-WASD - Move camera
-Mouse wheel/button - Zoom camera
-Left/right - Change puzzle layout
-F - Go fullscreen
-Escape - Exit application
+- LMB - Select tiles
+- RMB - Rotate camera
+- WASD - Move camera
+- Mouse wheel/button - Zoom camera
+- Left/right - Change puzzle layout
+- F - Go fullscreen
+- Escape - Exit application
